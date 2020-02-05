@@ -1,7 +1,7 @@
 ##Database Benchmarking Project - 
 CS 487/587 Database Implementation
 
-By: Jetha Harsha and Janaki Raghuram Srungavarapu 
+By: Jetha Harsha Sai Emandi and Janaki Raghuram Srungavarapu 
 
 ## Brief Description:
 The project aims to evaluate a single system (postgres) with different parameter values and optimizer options. The database is evaluated with the help of benchmark comparisons using queries from Wisconsin Benchmark. 
