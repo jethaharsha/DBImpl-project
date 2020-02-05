@@ -1,5 +1,6 @@
 ##Database Benchmarking Project - 
 CS 487/587 Database Implementation
+
 By: Jetha Harsha and Janaki Raghuram Srungavarapu 
 
 ## Brief Description:
