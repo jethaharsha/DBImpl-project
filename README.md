@@ -11,7 +11,7 @@ The project aims to evaluate a single system (postgres) with different parameter
 The objective of this part 1 of the project is to generate data based on the Wisconsin Benchmark specification. Three data files (onektup, tenktup1 and tenktup2) are generated using a Java language based script – Generator.java. The Generated data files are placed in folder named ‘Generated files’.
 
 ## Important File descriptions:
-The main files are in the directory "src/com/dbimpl". The "Genrator.java" file generates the data based on based on the Wisconsin Benchmark specification. The files also has the configuration for postgres connections.
+The main files are in the directory "src/com/dbimpl". The "Genrator.java" file generates the data based on the Wisconsin Benchmark specification. The files also has the configuration for postgres connections.
 The generated data files are in the csv format. These files are loaded into Generated files folder
 
 ## System choice
