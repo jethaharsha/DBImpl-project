@@ -22,3 +22,7 @@ For data generation we considered writing code in Python vs Java. Since one of u
 
 ## Lessons learnt / Problems encountered: 
 
+Major of the project part one learnings are from The Wisconsin Benchmark paper. The paper provided a great insight into designing benchmark specifications. Skeleton provided by the Benchmark Relation Generator was very useful in generating datafiles.  The Wisconsin Benchmark Query Suite and the methodology use it to test different paramaters of database(es) was anothert major takeaway. We are curious to observe the efficency of indexes on our databases. 
+
+The data genereation through Java has been quite useful except for the generation of string 4. Switch case statement was used to implement it. Most of the efforts with respect to programming went in to figuring out a way to establish connection to the PostgreSQL. At the end of project part 1, we felt that it is much easier to interact with PostgreSQL using Python (psycopg2) packages. 
+
