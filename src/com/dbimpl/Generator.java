@@ -13,9 +13,9 @@ public class Generator {
     {
         System.out.println("Getting Connected to database...");
         
-        String url = "jdbc:postgresql://localhost:5432/postgres";
+        String url = "jdbc:postgresql://localhost:5432/dbimpl";
         String username = "postgres";
-        String password = "1234";
+        String password = "tiktok007";
 
         Connection conn = null;
         try {
